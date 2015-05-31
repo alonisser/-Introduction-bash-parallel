@@ -1,1 +1,2 @@
-# -Introduction-bash-parallel
+# [Introduction-bash-parallel](http://alonisser.github.io/Introduction-bash-parallel)
+

@@ -56,12 +56,12 @@ class: center, middle
 
 ##When ProcessPoolExecutor just isn’t the right tool for the job 
 
-* When We don’t want to adapt our code. 
-* When We need the full application, not running a specific function/class (concurrent.futures pool executor can be passed only pickable objects)
+* When we don’t want to adapt our code. 
+* When we need the full application, not running a specific function/class (concurrent.futures pool executor can be passed only pickable objects)
 
 --
 
-##For example: Maybe We already have a management command..
+##For example: Maybe we already have a management command..
 
 --
 
@@ -107,7 +107,8 @@ We can limit the parallel execution according to that:
 ```
 --delay 2
 ```
-Many more options
+
+* Many more options
 
 ---
 
