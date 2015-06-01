@@ -5,9 +5,10 @@ class: center, middle
 ###A gentle introduction and Some real live examples
 
 [live presentation](http://alonisser.github.io/Introduction-bash-parallel) <br/>
+
 [twitter](alonisser@twitter.com), [medium](https://medium.com/@alonisser/)
 
-#####you can also read my political blog: degeladom@wordpress.com
+#####you can also read my political blog: degeladom.wordpress.com
 ---
 
 # Installation
