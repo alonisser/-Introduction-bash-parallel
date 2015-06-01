@@ -8,7 +8,7 @@ class: center, middle
 
 [twitter](alonisser@twitter.com), [medium](https://medium.com/@alonisser/)
 
-#####you can also read my political blog: [degeladom](degeladom.wordpress.com)
+#####you can also read my political blog: [degeladom](https://degeladom.wordpress.com)
 ---
 
 # Installation
